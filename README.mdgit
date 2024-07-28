@@ -1,0 +1,2 @@
+"# Page"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ibadsay/Page.gitgit push -u origin main
+"# Page"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/ibadsay/Page.gitgit push -u origin main
